@@ -1,4 +1,4 @@
-# Hello, I'm [Abdullah Nasir]! 👋
+# Hello, I'm Abdullah Nasir! 👋
 
 ## 🚀 About Me
 I'm learning to Coding and this is my first GitHub repository!
